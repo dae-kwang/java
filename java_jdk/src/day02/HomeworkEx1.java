@@ -20,7 +20,7 @@ public class HomeworkEx1 {
 		
 		if(num < 0 || num > 100) {
 			System.out.println("잘못된 점수");
-		}else if(90 <= num && num <= 100 ) {
+		}else if(num >= 90 && num <= 100 ) {
 			System.out.println("A");
 		}else if(80 <= num && num < 90) {
 			System.out.println("B");
