@@ -47,7 +47,7 @@ public class LottoEx3 {
 		//사용자 번호를 입력(6개)해서 배열에 저장 - 3번 배열
 		int [] user = new int[6];
 		Scanner scan = new Scanner(System.in);
-		System.out.println("입력 번호 : ");
+		System.out.print("입력 번호 : ");
 		for(int i = 0; i < 6; i++) {
 			user[i] = scan.nextInt();
 			

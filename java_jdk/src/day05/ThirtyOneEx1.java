@@ -67,6 +67,7 @@ public class ThirtyOneEx1 {
 				System.out.println("컴퓨터 승!");
 			}
 		}
+		
 	}
 
 }

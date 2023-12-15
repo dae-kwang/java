@@ -26,3 +26,4 @@ replay_pid*
 .classpath
 .project
 java_jdk/.gitignore
+java_jdk/src/day05/LottoEx3.java
